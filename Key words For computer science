@@ -1,0 +1,30 @@
+
+Computation is driven by the CPU (Central Processing Unit), GPU (Graphics Processing Unit), and ASICs (Application-Specific Integrated Circuits). These components form the backbone of data processing and number crunching in both personal and enterprise computing environments.
+
+Hardware
+
+Hardware includes the physical components that make up a computer system. From the memory (RAM) and storage devices to semiconductors that drive the computational logic, hardware plays a vital role in computing.
+
+Storage
+
+In computer science, storage is the process of capturing and preserving digital information on storage media. Storage can be used in many places, including offices, data centers, remote locations, and mobile devices.
+
+Fullstack Development
+
+A Fullstack developer is proficient in both frontend and backend technologies. This combined skill set allows developers to create fully integrated web applications.
+
+Networking:
+
+#3.1 Local area network (LAN): A LAN covers a small geographic area suvh as a home, office or campus.
+
+#3.2 Wide Area Network (WAN) :
+
+A WAN spans a large geographic like multipke cities or countries.
+
+#3.3 NIC (Network Interface Card)
+
+A network interface card (NIC) is a hardware component, typically a circuit board or chip, installed on a computer so it can connect to a network. Modern NICs provide functionality to computers, such as support for input/output interrupt, direct-memory access interfaces, data transmission, network traffic engineering and partitioning.
+
+Operating Systems
+
+An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs. Kernel: The core part of the OS that manages system resources. OS Layer: Abstracts hardware resources for higher-level software. Applications: Programs that run on top of the OS. CISC & RISC: Two primary CPU instruction set architectures. Virtual Machine: An emulation of a computer system.
